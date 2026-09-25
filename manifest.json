@@ -1,0 +1,21 @@
+{
+  "name": "Portal da Qualidade M365",
+  "short_name": "Portal Qualidade",
+  "start_url": "./portal-qualidade.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0f62fe",
+  "description": "Central de Ferramentas da Qualidade (5 Porquês, 8D, Ishikawa, PDCA, GUT)",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
